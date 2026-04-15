@@ -7,7 +7,7 @@ let posts = [
     body: "My classmates made a separate group chat without me and would openly talk about plans in front of me. For months I thought maybe it was a mistake. It wasn't. I finally told my adviser and things started to get better. If you're going through this — please talk to someone.",
     name: "Maria S.",
     anonymous: false,
-    bullyType: "Cyberbullying",
+    bullyType: "Social / Exclusion",
     date: "2025-04-12",
     supports: 24,
     supported: false,
